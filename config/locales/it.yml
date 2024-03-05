@@ -1,0 +1,13 @@
+it:
+  top_menu_item_title: "Cruscotto"
+  settings_header_statuses: "Colori dei Status"
+  settings_header_projects: "Colori dei Progetti"
+  settings_header_other: "Altro"
+  settings_use_drop_down_menu: 'Utilizza il menu a discesa per la scelta del progetto'
+  settings_display_closed_statuses: 'Visualizza gli stati "chiuse"'
+  settings_display_child_projects_tasks: 'Visualizza le attività dei progetti secondari'
+  settings_display_minimized_closed_issue_cards: 'Visualizza le carte «chiuse» in minimo'
+  settings_enable_drag_and_drop: 'Modifica dello stato "Trascina e Rilascia"'
+  settings_generate_colors: "Genera colori"
+  executor_not_set: "Non impostato"
+  label_all: "Tutto"

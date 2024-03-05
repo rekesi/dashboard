@@ -1,0 +1,13 @@
+es:
+  top_menu_item_title: "Panel"
+  settings_header_statuses: "Colores des Status"
+  settings_header_projects: "Colores des Proyectos"
+  settings_header_other: "Otro"
+  settings_use_drop_down_menu: 'Utilice el menú desplegable para elegir el proyecto'
+  settings_display_closed_statuses: 'Mostrar estados "cerrados"'
+  settings_display_child_projects_tasks: 'Mostrar tareas de proyectos secundarios'
+  settings_display_minimized_closed_issue_cards: 'Mostrar tarjetas de problemas "cerrados" minimizadas'
+  settings_enable_drag_and_drop: 'Cambio de estado "Arrastrar y Soltar"'
+  settings_generate_colors: "Generar colores"
+  executor_not_set: "No establecido"
+  label_all: "Todos"
